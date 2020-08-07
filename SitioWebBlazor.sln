@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SitioWebBlazor", "SitioWebB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{581FAEC0-0C0A-41EB-82A0-F94A246B0635}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{116B59E7-673A-4155-B6C9-3930EF27E0EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{581FAEC0-0C0A-41EB-82A0-F94A246B0635}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{581FAEC0-0C0A-41EB-82A0-F94A246B0635}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{581FAEC0-0C0A-41EB-82A0-F94A246B0635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116B59E7-673A-4155-B6C9-3930EF27E0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116B59E7-673A-4155-B6C9-3930EF27E0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116B59E7-673A-4155-B6C9-3930EF27E0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116B59E7-673A-4155-B6C9-3930EF27E0EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
